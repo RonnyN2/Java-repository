@@ -1,0 +1,24 @@
+
+Enunciado 1 
+
+— Sistema de Gestión de Mascotas en una Veterinaria 
+La clínica veterinaria AnimalCare necesita un pequeño sistema para registrar y 
+organizar la información de las mascotas que atiende.
+
+Cada mascota debe almacenar datos como su nombre, especie, edad y el nombre 
+de su propietario. 
+
+Algunas mascotas requieren información adicional según su tipo: 
+● Los perros deben registrar si tienen o no entrenamiento. 
+ 
+
+La clínica también desea un módulo donde el usuario pueda: 
+1. Registrar nuevas mascotas de cualquiera de los tipos. 
+2. Listarlas todas. 
+3. Buscar una mascota por su nombre. 
+4. Actualizar algún dato relevante. 
+5. Eliminar un registro. 
+6. Salir del sistema. 
+
+El sistema debe permitir almacenar varias mascotas y garantizar un manejo 
+ordenado de los datos.
